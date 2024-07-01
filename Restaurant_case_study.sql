@@ -1,7 +1,5 @@
 														-- Swiggy Case Study
 
-USE zoho;
-
 SELECT * FROM orders;
 SELECT * FROM order_details;
 SELECT * FROM menu;
